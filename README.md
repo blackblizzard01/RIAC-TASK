@@ -1,5 +1,4 @@
 # RIAC-TASK
-# RIAC-TASK
 RIAC Research Corner
 Overview
 
